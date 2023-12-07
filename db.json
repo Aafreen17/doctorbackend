@@ -1,0 +1,21 @@
+{
+  "doctors": [
+    {
+      "name": "Aafreen tabassum",
+      "salary": "1324243",
+      "gender": "female",
+      "age": "23",
+      "specialization": "cardio",
+      "id": 1
+    },
+    {
+      "name": "Abdul Azeez",
+      "salary": "1324243",
+      "gender": "male",
+      "age": "23",
+      "specialization": "cardio",
+      "id": 2
+    }
+  ],
+  "patients": []
+}
